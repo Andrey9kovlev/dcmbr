@@ -75,4 +75,12 @@ const same = "folder";
 console.log(`http://${same}/66`);
 
 const user = 'pedik';
-alert (`Привет ${user}`);
+alert(`Привет ${user}`);
+
+let incr = 10;
+decr = 10;
+
+// incr++;
+// decr--;
+console.log(++incr);
+console.log(--decr);
